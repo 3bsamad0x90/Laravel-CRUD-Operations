@@ -1,2 +1,2 @@
-# Laravel-CRUD-Operations
-Laravel Project to implment cred operations 
+# Laravel CRUD Operations
+## Blog website Project to implement cred operations 
