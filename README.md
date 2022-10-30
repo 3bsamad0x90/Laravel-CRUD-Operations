@@ -1,2 +1,2 @@
 # Laravel CRUD Operations
-## Blog website Project to implement cred operations 
+## Blog website to implement cred operations 
