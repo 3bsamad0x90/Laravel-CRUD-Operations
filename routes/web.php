@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\HelloController;
+use App\Http\Controllers\postController;
+use App\Http\Controllers\MessageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -33,3 +34,4 @@ Route::put('/posts/{post}', 'App\Http\Controllers\postController@update')-> name
 Route::delete('/posts/{post}', 'App\Http\Controllers\postController@destroy')-> name('posts.destroy');
 
 Route::get('/posts/{post}', 'App\Http\Controllers\postController@show')->name('posts.show');
+

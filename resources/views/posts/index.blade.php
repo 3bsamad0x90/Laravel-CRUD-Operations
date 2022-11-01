@@ -1,4 +1,3 @@
-
 @extends('layouts.app')
 @section('content')
     <a href="{{route('posts.create')}}" class="btn btn-primary mt-3 text-center">Create Post</a>
